@@ -1,0 +1,21 @@
+:root {
+    --japan-bg-color: #ffffff;
+    --japan-text-color: #000000;
+    --japan-main-color: #d42924;
+    --japan-font-family: 'Open Sans';
+
+    --arab-bg-color: #f5deb3;
+    --arab-text-color: #8b4513;
+    --arab-main-color: #c19a6b;
+    --arab-font-family: 'Amiri';
+
+    --usa-bg-color: #3c3b6e;
+    --usa-text-color: #ffffff;
+    --usa-main-color: #b22234;
+    --usa-font-family: 'Roboto';
+
+    --brasil-bg-color: #009c3b;
+    --brasil-text-color: #ffdf00;
+    --brasil-main-color: #002776;
+    --brasil-font-family: 'Arial';
+}
